@@ -9,6 +9,6 @@ c) Problème de temps/ de difficulté
 
 d) Une prise en main de Javafx en amont aurait put fortement m'aider. 
 
-e) Le nombre trop excessif de projet est un frein à l'apprentissage pour un débutant. 
+e) Le nombre excessif de projet est un frein à l'apprentissage pour un débutant. 
 
 Bonne journée :)
